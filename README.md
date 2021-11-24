@@ -4,8 +4,8 @@
 > ##### This log in website is for coding test only please don't put your email and password on the box
 <br>
 
-# You can visit here
-[LeiamNashBetaTest](https://leiamnashrebirth.github.io/LoginWeb/)
+# You can visit my website here
+[LeiamNashBetaTest](https://leiamnashrebirth.github.io/WebLogin/)
 
 <br>
 
